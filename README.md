@@ -108,3 +108,7 @@ To strengthen the model’s findings and explore causality:
  	+ F1 Score: 0.880
 
 **EBM** outperformed Logistic Regression in **accuracy** and **interpretability**, making it the preferred model for integration into the self-testing app.
+
+## Files:
+
+The actual code with details about this project is in "**HEART_ATTACK_PREDICTION.ipynb**"
